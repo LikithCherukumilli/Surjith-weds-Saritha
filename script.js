@@ -132,7 +132,7 @@ indicator.style.pointerEvents="none";
 
 /* COUNTDOWN */
 
-const weddingDate=new Date("April 30, 2026 00:52:00").getTime();
+const weddingDate=new Date("May 09, 2026 10:23:00").getTime();
 
 const daysEl=document.getElementById("days");
 const hoursEl=document.getElementById("hours");
